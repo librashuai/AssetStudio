@@ -2,7 +2,8 @@
 
     <PropertyGroup>
         <OutputType>WinExe</OutputType>
-        <TargetFrameworks>net472;net8.0-windows;net9.0-windows</TargetFrameworks>
+        <TargetFrameworks>net8.0-windows</TargetFrameworks>
+        <RuntimeIdentifier>win-x64</RuntimeIdentifier>
         <UseWindowsForms>true</UseWindowsForms>
         <ApplicationIcon>Resources\as.ico</ApplicationIcon>
         <AssemblyTitle>AssetStudioMod by aelurum</AssemblyTitle>
